@@ -4,11 +4,11 @@ Elm is a functional language that compiles to JavaScript. It competes with proje
 
 ## Presentation slides
 
-[elm talk](https://slides.com/dennisfricke/elm-talk/live)
+[elm slides](https://slides.com/dennisfricke/elm-talk/live)
 
 ## Further informations
 
-[elm](https://elm-lang.org/)
-[elm docs](https://guide.elm-lang.org)
-[material framework](https://debois.github.io/elm-mdl/)
+[elm website](https://elm-lang.org/)  
+[elm docs](https://guide.elm-lang.org)  
+[material framework](https://debois.github.io/elm-mdl/)  
 [elm-native-ui (highly experimental)](elm-native-ui)
