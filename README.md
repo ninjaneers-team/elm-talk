@@ -11,4 +11,4 @@ Elm is a functional language that compiles to JavaScript. It competes with proje
 [elm website](https://elm-lang.org/)  
 [elm docs](https://guide.elm-lang.org)  
 [material framework](https://debois.github.io/elm-mdl/)  
-[elm-native-ui (highly experimental)](elm-native-ui)
+[elm-native-ui (highly experimental)](https://github.com/ohanhi/elm-native-ui)
